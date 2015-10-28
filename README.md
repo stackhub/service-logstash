@@ -1,2 +1,2 @@
 # service-logstash
-An example logstash dockerfile
+An example logstash dockerfile 
